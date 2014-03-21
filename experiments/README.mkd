@@ -1,0 +1,1 @@
+These are just experiments, so I just used `go run x.go`, where "x.go" is the name of the program I want to test.
